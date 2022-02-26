@@ -1,0 +1,12 @@
+C:\Users\win\source\repos\Number System Converter\Number System Converter\bin\Debug\Number System Converter.exe.config
+C:\Users\win\source\repos\Number System Converter\Number System Converter\bin\Debug\Number System Converter.exe
+C:\Users\win\source\repos\Number System Converter\Number System Converter\bin\Debug\Number System Converter.pdb
+C:\Users\win\source\repos\Number System Converter\Number System Converter\obj\Debug\Number_System_Converter.Properties.Resources.resources
+C:\Users\win\source\repos\Number System Converter\Number System Converter\obj\Debug\Number System Converter.csproj.GenerateResource.cache
+C:\Users\win\source\repos\Number System Converter\Number System Converter\obj\Debug\Number System Converter.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\Number System Converter\Number System Converter\obj\Debug\Number System Converter.exe
+C:\Users\win\source\repos\Number System Converter\Number System Converter\obj\Debug\Number System Converter.pdb
+C:\Users\win\source\repos\Number System Converter\Number System Converter\obj\Debug\Number_System_Converter.Form2.resources
+C:\Users\win\source\repos\Number System Converter\Number System Converter\obj\Debug\Number_System_Converter.Form3.resources
+C:\Users\win\source\repos\Number System Converter\Number System Converter\obj\Debug\Number_System_Converter.Form1.resources
+C:\Users\win\source\repos\Number System Converter\Number System Converter\obj\Debug\Number System Converter.csprojAssemblyReference.cache
